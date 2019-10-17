@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    background: orange;
+    align-content: flex-start;
+    -ms-flex-align: center;
+    border-block-end-style: double;
+    text-align: center
+}
+.first{
+    font-weight: bold;
+}
+.done{
+    text-decoration: line-through;
+}
+
+.body{
+    color: blue;
+}
+h3{
+    padding: 30px;
+    border: red dotted;
+    margin: 50px;
+}
+.hen{
+    width: 100px;
+    height: 100px;
+    border-radius: 40px;
+}
